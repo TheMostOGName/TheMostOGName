@@ -1,9 +1,6 @@
-I’m TheMostOGName
+I do a bunch of random projects when I have time and feel like it!
 
-I mod video games and make random projects sometimes. 
-I mostly focus on Mario Kart Wii, because that's the game I'm most expireienced with, but I do other stuff too.
-
-If you want to talk to me for some reason, here's my discord: Kenorbs#4955. 
+I've also modded Mario Kart Wii, you can check out those projects here: https://wiki.tockdom.com/wiki/User:TheMostOGName
 
 <!---
 TheMostOGName/TheMostOGName is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
